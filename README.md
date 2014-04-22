@@ -1,6 +1,8 @@
 Rocket Framework
 ================
 
+[Visit Rocket Framework !](www.rocket-framework.com)
+
 A lightweight REST-centered PHP5.3+ framework
 
 - Lightweight
