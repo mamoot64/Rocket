@@ -8,24 +8,22 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Xavier Lacot",
-            "email": "xlacot@jolicode.com",
-            "homepage": "http://www.lacot.org",
+            "name": "PERUSSEL Nicolas",
+            "email": "nicolas.perussel@gmail.com",
+            "homepage": "http://www.rocket-framework.com",
             "role": "Developer"
         },
         {
-            "name": "Benjamin Clay",
-            "email": "bclay@jolicode.com",
-            "homepage": "http://ternel.net",
+            "name": "Vance Lucas",
+            "email": "vance@vancelucas.com",
+            "homepage": "http://www.vancelucas.com",
             "role": "Developer"
         }
     ],
     "support": {
-        "email": "support@exemple.org",
-        "issues": "https://github.com/jolicode/GouvCamp-mobile/issues",
-        "forum": "http://www.my-forum.com/",
-        "wiki": "http://www.my-wiki.com/",
-        "irc": "irc://irc.freenode.org/composer",
-        "source": "https://github.com/jolicode/GouvCamp-mobile"
+        "email": "support@rocket-framework.com",
+        "issues": "https://github.com/acidline/Rocket/issues",
+        "wiki": "http://www.rocket-framework.com",
+        "source": "https://github.com/acidline/Rocket.git"
     }
 }
