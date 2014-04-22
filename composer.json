@@ -1,0 +1,31 @@
+{
+    "name": "acidline/rocket",
+    "description": "A lightweight REST-centered PHP5.3+ framework",
+    "version": "1.0",
+    "type": "library",
+    "keywords": ["php", "rocket", "framework", "design pattern", "HMVC"],
+    "homepage": "http://www.rocket-framework.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xavier Lacot",
+            "email": "xlacot@jolicode.com",
+            "homepage": "http://www.lacot.org",
+            "role": "Developer"
+        },
+        {
+            "name": "Benjamin Clay",
+            "email": "bclay@jolicode.com",
+            "homepage": "http://ternel.net",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@exemple.org",
+        "issues": "https://github.com/jolicode/GouvCamp-mobile/issues",
+        "forum": "http://www.my-forum.com/",
+        "wiki": "http://www.my-wiki.com/",
+        "irc": "irc://irc.freenode.org/composer",
+        "source": "https://github.com/jolicode/GouvCamp-mobile"
+    }
+}
